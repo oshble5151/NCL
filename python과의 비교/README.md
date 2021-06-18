@@ -1,6 +1,6 @@
 ncl과 python은 문법이 비슷하다.
 
-다음과 같은 차이가 있다.
+다음은 ncl과 python의 차이를 나타낸다.
 
 출처(https://www.ncl.ucar.edu/Document/Manuals/NCL_to_Python/)
 
