@@ -19,3 +19,24 @@ Coordinates:
 ```
 
 배열에 있는 요소의 index를 출력해준다.
+
+## .ep
+eq는 배열 사용 가능하다.
+뒤의 숫자가 맞는지 판별한뒤 bool 배열을 돌려준다.
+```ncl
+arr = (/1,2,3,4,5/)
+
+test = arr.eq.3
+print(test)
+Type: logical
+Total Size: 20 bytes
+            5 values
+Number of Dimensions: 1
+Dimensions and sizes:   [5]
+Coordinates:
+(0)     False
+(1)     False
+(2)     True
+(3)     False
+(4)     False
+```
