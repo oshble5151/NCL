@@ -1,4 +1,4 @@
-# dim_avg_n *np.average와 동일하다.
+# dim_avg_n (=*np.average와 동일)
 
 다른 모든 차원에서 변수의 주어진 치수의 평균을 계산.
 
